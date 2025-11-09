@@ -13,7 +13,7 @@ enum MyEnum {
 /**
 * カラフルな炎のパーティクル
 */
-enum FlameParticle {
+declare const enum FlameParticle {
     //% block="🔥 赤い炎"
     RedFlame,
     //% block="🟢 緑の炎"
