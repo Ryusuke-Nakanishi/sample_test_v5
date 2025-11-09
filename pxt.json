@@ -8,8 +8,10 @@
     },
     "files": [
         "main.blocks",
+        "custom.ts",
         "main.ts",
-        "README.md"
+        "README.md",
+        "tutorials/demo1.md"
     ],
     "testFiles": [
         "test.ts"
