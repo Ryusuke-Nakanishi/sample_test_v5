@@ -17,6 +17,5 @@
     },
     "supportedTargets": [
         "minecraft"
-    ],
-    "preferredEditor": "tsprj"
+    ]
 }
