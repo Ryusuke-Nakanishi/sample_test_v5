@@ -14,15 +14,15 @@ enum MyEnum {
 * カラフルな炎のパーティクル
 */
 declare const enum FlameParticle {
-    //% block="🔥 赤い炎"
+    //% block="🔥 あかいろ"
     RedFlame,
-    //% block="🟢 緑の炎"
+    //% block="🟢 みどりいろ"
     GreenFlame,
-    //% block="🔵 青い炎"
+    //% block="🔵 あおいろ"
     BlueFlame,
-    //% block="🟣 紫の炎"
+    //% block="🟣 むらさきいろ"
     PurpleFlame,
-    //% block="🟠 オレンジの炎"
+    //% block="🟠 オレンジいろ"
     OrangeFlame
 }
 
