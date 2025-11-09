@@ -10,7 +10,7 @@
 
 ```ghost
 player.onArrowShot(function () {
-	
+	magic.emitParticleAtProjectiles(FlameParticle.RedFlame)
 })
-magic.emitParticleAtProjectiles(FlameParticle.RedFlame)
+
 ```
