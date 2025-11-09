@@ -1,6 +1,7 @@
 ### @hideIteration false
 ### @flyoutOnly true
 ### @explicitHints true
+### @extends custom.ts
 
 # まほう
 
@@ -8,7 +9,7 @@
 
 まほうの ゆみを つくろう！
 
-```ghost
+```blocks
 player.onArrowShot(function () {
 	
 })

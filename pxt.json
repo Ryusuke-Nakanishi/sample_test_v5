@@ -1,20 +1,15 @@
 {
     "name": "sample_test_v5",
-    "description": "",
+    "description": "Custom Blocks + tutorial for Minecraft MakeCode",
     "dependencies": {
         "core": "*",
-        "builder": "*",
-        "Education Tutorial Test": "github:ryusuke-nakanishi/edututorialtest#main"
+        "builder": "*"
     },
     "files": [
-        "main.blocks",
-        "custom.ts",
         "main.ts",
+        "custom.ts",
         "README.md",
         "tutorials/demo1.md"
-    ],
-    "testFiles": [
-        "test.ts"
     ],
     "targetVersions": {
         "target": "2.1.27",
@@ -22,5 +17,6 @@
     },
     "supportedTargets": [
         "minecraft"
-    ]
+    ],
+    "preferredEditor": "tsprj"
 }
