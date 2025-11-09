@@ -1,7 +1,6 @@
 ### @hideIteration false
 ### @flyoutOnly true
 ### @explicitHints true
-### @extends custom.ts
 
 # まほう
 
