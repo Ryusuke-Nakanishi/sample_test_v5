@@ -8,7 +8,7 @@
 
 まほうの ゆみを つくろう！
 
-```blocks
+```ghost
 player.onArrowShot(function () {
 	
 })
