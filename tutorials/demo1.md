@@ -8,7 +8,7 @@
 
 まほうの ゆみを つくろう！
 
-```ghost
+```blocks
 player.onArrowShot(function () {
 	magic.emitParticleAtProjectiles(FlameParticle.RedFlame)
 })
