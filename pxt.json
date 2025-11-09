@@ -1,0 +1,24 @@
+{
+    "name": "sample_test_v5",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*",
+        "Education Tutorial Test": "github:ryusuke-nakanishi/edututorialtest#main"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.1.27",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ]
+}
